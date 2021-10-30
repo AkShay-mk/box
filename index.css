@@ -1,0 +1,20 @@
+.main{
+    background-color: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+}
+#new{
+    
+    background-color: rgb(201, 37, 15);
+    width:200px;
+    height: 200px;
+    border: 2px solid rgb(214, 136, 19);
+    
+}
+#new:hover {
+    background-color: yellowgreen;
+}
